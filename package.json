@@ -1,0 +1,11 @@
+{
+  "name": "hola-mundo-git",
+  "version": "1.0.0",
+  "description": "\"hola mundo usando git\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SANDRA NOELIA RODRIGUEZ ESCOBAR",
+  "license": "ISC"
+}
